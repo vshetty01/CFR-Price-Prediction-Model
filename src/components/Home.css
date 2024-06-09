@@ -1,0 +1,19 @@
+.home {
+  text-align: center;
+  padding: 40px;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  min-height: calc(100vh - 64px);
+}
+
+.home h1 {
+  font-size: 36px;
+  color: #6c9bd2;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 18px;
+  color: #333333;
+  line-height: 1.5;
+}
